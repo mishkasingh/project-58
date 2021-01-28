@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+h3 {
+    font-size: 20px;
+    color: #6A1B9A;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 22px;
+    text-align: center;
+}
+
+h2 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 22px;
+   text-align:center;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+#welcome {
+   background: linear-gradient(#0000FF 0%,#800080 100%);
+  text-align:center
+}
+
+.buttons {
+    list-style: none;
+    font-family: cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color: white;
+    }
+
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.links:hover {
+    background-color: dodgerblue;
+}
+img{
+    border-radius:9000px;
+  width:400px;
+}
